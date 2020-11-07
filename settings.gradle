@@ -1,0 +1,4 @@
+include ':common'
+include ':server'
+include ':app'
+rootProject.name = "MyAndroidProject"
